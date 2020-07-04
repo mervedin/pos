@@ -1,0 +1,150 @@
+<S> <S>+BSTag
+Su su+Noun+A3sg+Pnon+Nom
+altının alt+Noun+NAdj+A3sg+P2sg+Gen alt+Noun+NAdj+A3sg+P3sg+Gen altın+Noun+NAdj+A3sg+Pnon+Gen altın+Noun+NAdj+A3sg+P2sg+Nom altı+Noun+Num+A3sg+Pnon+Gen altı+Noun+Num+A3sg+P2sg+Gen
+son son+Adj son+Noun+NAdj+A3sg+Pnon+Nom
+60 60+Adj+Num 60+Noun+Num+A3sg+Pnon+Nom
+yılı yıl+Noun+A3sg+Pnon+Acc yıl+Noun+A3sg+P3sg+Nom
+aydınlanıyor. aydınlanıyor.+Guess+Noun+A3sg+Pnon+Nom
+</S> </S>+ESTag
+<S> <S>+BSTag
+Türkiye'de Türkiye+Noun+Prop+A3sg+Pnon+Loc
+su su+Noun+A3sg+Pnon+Nom
+altının alt+Noun+NAdj+A3sg+P2sg+Gen alt+Noun+NAdj+A3sg+P3sg+Gen altın+Noun+NAdj+A3sg+Pnon+Gen altın+Noun+NAdj+A3sg+P2sg+Nom altı+Noun+Num+A3sg+Pnon+Gen altı+Noun+Num+A3sg+P2sg+Gen
+gizemli gizem+Noun+A3sg+Pnon+Nom^DB+Adj+With gizem+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3sg+Pnon+Nom
+dünyasını dünya+Noun+A3sg+P3sg+Acc
+ilk ilk+Adj ilk+Adverb ilk+Noun+NAdj+A3sg+Pnon+Nom
+kez kez+Noun+A3sg+Pnon+Nom
+fotoğraflayan fotoğrafla+Verb+Pos^DB+Adj+PresPart fotoğrafla+Verb+Pos^DB+Adj+PresPart^DB+Noun+Zero+A3sg+Pnon+Nom
+sanatçıların sanatçı+Noun+A3pl+Pnon+Gen sanatçı+Noun+A3pl+P2sg+Nom
+eserlerinin eser+Noun+A3pl+P3pl+Gen eser+Noun+A3pl+P2sg+Gen eser+Noun+A3pl+P3sg+Gen eser+Noun+A3sg+P3pl+Gen
+yer ye+Verb+Pos+Aor+A3sg ye+Verb+Pos^DB+Adj+AorPart yer+Verb+Pos+Imp+A2sg yer+Noun+A3sg+Pnon+Nom
+aldığı al+Verb+Pos^DB+Adj+PastPart+P3sg al+Verb+Pos^DB+Noun+PastPart+A3sg+Pnon+Acc al+Verb+Pos^DB+Noun+PastPart+A3sg+P3sg+Nom
+"1952-2012 "1952-2012+?
+Sualtına sualt+Noun+A3sg+Pnon+Dat sualt+Noun+A3sg+P3sg+Dat sualt+Noun+A3sg+P2sg+Dat
+Işık ışık+Noun+A3sg+Pnon+Nom Işık+Noun+Prop+A3sg+Pnon+Nom
+Tutanlar" Tutanlar"+?
+sergisi, sergisi,+Guess+Noun+A3sg+Pnon+Nom
+8 8+Adj+Num 8+Noun+Num+A3sg+Pnon+Nom
+Kasım'da kas+Noun+A3sg+P1sg+Loc kasım+Noun+A3sg+Pnon+Loc Kasım+Noun+Prop+A3sg+Pnon+Loc
+Rezan Rezan+Noun+Prop+A3sg+Pnon+Nom
+Has has+Adj has+Noun+NAdj+A3sg+Pnon+Nom
+Müzesi'nde müze+Noun+A3sg+P3sg+Loc
+açılacak. açılacak.+Guess+Noun+A3sg+Pnon+Nom
+</S> </S>+ESTag
+<S> <S>+BSTag
+60 60+Adj+Num 60+Noun+Num+A3sg+Pnon+Nom
+yıllık yıllık+Adj yıllık+Noun+NAdj+A3sg+Pnon+Nom yıl+Noun+A3sg+Pnon+Nom^DB+Adj+Fitfor
+bir bir+Adverb bir+Adj+Num bir+Noun+Num+A3sg+Pnon+Nom
+hikayenin hikaye+Noun+A3sg+Pnon+Gen hikaye+Noun+A3sg+P2sg+Gen hikâye+Noun+A3sg+Pnon+Gen hikâye+Noun+A3sg+P2sg+Gen
+anlatıldığı anlat+Verb+Pass+Pos^DB+Adj+PastPart+P3sg anlat+Verb+Pass+Pos^DB+Noun+PastPart+A3sg+Pnon+Acc anlat+Verb+Pass+Pos^DB+Noun+PastPart+A3sg+P3sg+Nom anla+Verb+Caus+Pass+Pos^DB+Adj+PastPart+P3sg anla+Verb+Caus+Pass+Pos^DB+Noun+PastPart+A3sg+Pnon+Acc anla+Verb+Caus+Pass+Pos^DB+Noun+PastPart+A3sg+P3sg+Nom
+sergide, sergide,+Guess+Noun+A3sg+Pnon+Nom
+Türkiye'de Türkiye+Noun+Prop+A3sg+Pnon+Loc
+su su+Noun+A3sg+Pnon+Nom
+altında alt+Noun+NAdj+A3sg+P2sg+Loc alt+Noun+NAdj+A3sg+P3sg+Loc altın+Noun+NAdj+A3sg+Pnon+Loc altı+Noun+Num+A3sg+P2sg+Loc
+ilk ilk+Adj ilk+Adverb ilk+Noun+NAdj+A3sg+Pnon+Nom
+kez kez+Noun+A3sg+Pnon+Nom
+deklanşöre deklanşör+Noun+A3sg+Pnon+Dat
+basan basan+Noun+A3sg+Pnon+Nom bas+Verb+Pos^DB+Adj+PresPart bas+Verb+Pos^DB+Adj+PresPart^DB+Noun+Zero+A3sg+Pnon+Nom
+Rasim Rasim+Noun+Prop+A3sg+Pnon+Nom
+Divanlı, Divanlı,+?
+Mustafa Mustafa+Noun+Prop+A3sg+Pnon+Nom
+Kapkın, Kapkın,+?
+Yalçın yalçın+Adj yalçın+Noun+NAdj+A3sg+Pnon+Nom
+Haraçoğlu, Haraçoğlu,+?
+Zareh Zareh+Guess+Noun+Prop+A3sg+Pnon+Nom
+Magar, Magar,+?
+Baskın baskın+Noun+A3sg+Pnon+Nom baskı+Noun+A3sg+P2sg+Nom
+Sokulluoğlu Sokulluoğlu+Guess+Noun+Prop+A3sg+Pnon+Nom
+ve ve+Conj
+Tosun tosun+Noun+A3sg+Pnon+Nom tosu+Noun+A3sg+P2sg+Nom tos+Noun+A3sg+Pnon+Gen tos+Noun+A3sg+P2sg+Nom
+Sezen'den sezen+Noun+A3sg+Pnon+Abl sez+Verb+Pos^DB+Adj+PresPart^DB+Noun+Zero+A3sg+Pnon+Abl
+Türkiye'nin Türkiye+Noun+Prop+A3sg+Pnon+Gen Türkiye+Noun+Prop+A3sg+P2sg+Nom
+ödüllü ödül+Noun+A3sg+Pnon+Nom^DB+Adj+With ödül+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3sg+Pnon+Nom
+ve ve+Conj
+önemli önem+Noun+A3sg+Pnon+Nom^DB+Adj+With önem+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3sg+Pnon+Nom
+su su+Noun+A3sg+Pnon+Nom
+altı alt+Noun+NAdj+A3sg+Pnon+Acc alt+Noun+NAdj+A3sg+P3sg+Nom altı+Adj+Num altı+Noun+Num+A3sg+Pnon+Nom
+fotoğraf fotoğraf+Noun+A3sg+Pnon+Nom
+sanatçılarına sanatçı+Noun+A3pl+P3pl+Dat sanatçı+Noun+A3pl+P2sg+Dat sanatçı+Noun+A3pl+P3sg+Dat sanatçı+Noun+A3sg+P3pl+Dat
+kadar kadar+Postp+PCGen kadar+Postp+PCNom kadar+Postp+PCDat
+oldukça oldukça+Adverb ol+Verb+Pos^DB+Adverb+AsLongAs
+uzun uzun+Adj uzun+Noun+NAdj+A3sg+Pnon+Nom uzun+Adverb
+bir bir+Adverb bir+Adj+Num bir+Noun+Num+A3sg+Pnon+Nom
+dönemi dönem+Noun+A3sg+Pnon+Acc dönem+Noun+A3sg+P3sg+Nom
+kapsayan kapsa+Verb+Pos^DB+Adj+PresPart kapsa+Verb+Pos^DB+Adj+PresPart^DB+Noun+Zero+A3sg+Pnon+Nom
+eserler es+Verb+Pos+Aor+A3pl eser+Noun+A3pl+Pnon+Nom eser+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl ese+Verb+Pos+Aor+A3pl
+yer ye+Verb+Pos+Aor+A3sg ye+Verb+Pos^DB+Adj+AorPart yer+Verb+Pos+Imp+A2sg yer+Noun+A3sg+Pnon+Nom
+alacak. alacak.+Guess+Noun+A3sg+Pnon+Nom
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Sanatçıların sanatçı+Noun+A3pl+Pnon+Gen sanatçı+Noun+A3pl+P2sg+Nom
+kendilerinde kendi+Pron+Reflex+A3pl+P3pl+Loc
+iz iz+Noun+A3sg+Pnon+Nom
+bırakan bırak+Verb+Pos^DB+Adj+PresPart bırak+Verb+Pos^DB+Adj+PresPart^DB+Noun+Zero+A3sg+Pnon+Nom
+en en+Adverb en+Noun+A3sg+Pnon+Nom
+önemli önem+Noun+A3sg+Pnon+Nom^DB+Adj+With önem+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3sg+Pnon+Nom
+karelerine kare+Noun+NAdj+A3pl+P3pl+Dat kare+Noun+NAdj+A3pl+P2sg+Dat kare+Noun+NAdj+A3pl+P3sg+Dat kare+Noun+NAdj+A3sg+P3pl+Dat
+yer ye+Verb+Pos+Aor+A3sg ye+Verb+Pos^DB+Adj+AorPart yer+Verb+Pos+Imp+A2sg yer+Noun+A3sg+Pnon+Nom
+verilen ver+Verb+Pass+Pos^DB+Adj+PresPart ver+Verb+Pass+Pos^DB+Adj+PresPart^DB+Noun+Zero+A3sg+Pnon+Nom
+bu bu+Det bu+Pron+Demons+A3sg+Pnon+Nom
+proje, proje,+Guess+Noun+A3sg+Pnon+Nom
+Türkiye'nin Türkiye+Noun+Prop+A3sg+Pnon+Gen Türkiye+Noun+Prop+A3sg+P2sg+Nom
+su su+Noun+A3sg+Pnon+Nom
+altı alt+Noun+NAdj+A3sg+Pnon+Acc alt+Noun+NAdj+A3sg+P3sg+Nom altı+Adj+Num altı+Noun+Num+A3sg+Pnon+Nom
+fotoğrafçılığı fotoğrafçılık+Noun+A3sg+Pnon+Acc fotoğrafçılık+Noun+A3sg+P3sg+Nom
+tarihinden tarihi+Noun+NAdj+A3sg+P2sg+Abl tarih+Noun+A3sg+P2sg+Abl tarih+Noun+A3sg+P3sg+Abl
+yola yol+Verb+Pos+Opt+A3sg yol+Noun+A3sg+Pnon+Dat
+çıkarak, çıkarak,+Guess+Noun+A3sg+Pnon+Nom
+1950'lerden 1950+Noun+Num+A3pl+Pnon+Abl
+günümüze gün+Noun+A3sg+P1pl+Dat günü+Noun+A3sg+P1pl+Dat
+kadar kadar+Postp+PCGen kadar+Postp+PCNom kadar+Postp+PCDat
+Türkiye Türkiye+Noun+Prop+A3sg+Pnon+Nom
+ve ve+Conj
+dünya dünya+Noun+A3sg+Pnon+Nom
+denizlerindeki deniz+Noun+A3pl+P3pl+Loc^DB+Adj+Rel deniz+Noun+A3pl+P3pl+Loc^DB+Pron+Rel+A3sg+Pnon+Nom deniz+Noun+A3pl+P2sg+Loc^DB+Adj+Rel deniz+Noun+A3pl+P2sg+Loc^DB+Pron+Rel+A3sg+Pnon+Nom deniz+Noun+A3pl+P3sg+Loc^DB+Adj+Rel deniz+Noun+A3pl+P3sg+Loc^DB+Pron+Rel+A3sg+Pnon+Nom deniz+Noun+A3sg+P3pl+Loc^DB+Adj+Rel deniz+Noun+A3sg+P3pl+Loc^DB+Pron+Rel+A3sg+Pnon+Nom
+su su+Noun+A3sg+Pnon+Nom
+altı alt+Noun+NAdj+A3sg+Pnon+Acc alt+Noun+NAdj+A3sg+P3sg+Nom altı+Adj+Num altı+Noun+Num+A3sg+Pnon+Nom
+yaşamını yaşam+Noun+A3sg+P2sg+Acc yaşam+Noun+A3sg+P3sg+Acc
+gözler göz+Noun+A3pl+Pnon+Nom göz+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl gözle+Verb+Pos+Aor+A3sg gözle+Verb+Pos^DB+Adj+AorPart
+önüne ön+Noun+NAdj+A3sg+P2sg+Dat ön+Noun+NAdj+A3sg+P3sg+Dat
+seriyor. seriyor.+Guess+Noun+A3sg+Pnon+Nom
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+90'a 90+Noun+Num+A3sg+Pnon+Dat
+yakın yak+Verb+Pos+Imp+A2pl yakın+Verb+Pos+Imp+A2sg yakın+Adj yakın+Noun+NAdj+A3sg+Pnon+Nom yakı+Noun+A3sg+P2sg+Nom
+fotoğraf fotoğraf+Noun+A3sg+Pnon+Nom
+sanatçısının sanatçı+Noun+A3sg+P3sg+Gen
+çalışmasının çalışma+Noun+A3sg+P3sg+Gen çalış+Verb+Pos^DB+Noun+Inf2+A3sg+P3sg+Gen
+yer ye+Verb+Pos+Aor+A3sg ye+Verb+Pos^DB+Adj+AorPart yer+Verb+Pos+Imp+A2sg yer+Noun+A3sg+Pnon+Nom
+alacağı al+Verb+Pos^DB+Adj+FutPart+P3sg al+Verb+Pos^DB+Noun+FutPart+A3sg+P3sg+Nom alacak+Noun+A3sg+Pnon+Acc alacak+Noun+A3sg+P3sg+Nom
+sergide, sergide,+Guess+Noun+A3sg+Pnon+Nom
+Engin engin+Adj engin+Noun+NAdj+A3sg+Pnon+Nom
+Aygün, Aygün,+?
+Bengiz Bengiz+Noun+Prop+A3sg+Pnon+Nom
+Özdereli özdere+Noun+A3sg+Pnon+Nom^DB+Adj+With özdere+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3sg+Pnon+Nom Özdereli+Noun+Prop+A3sg+Pnon+Nom
+ve ve+Conj
+Saki saki+Noun+A3sg+Pnon+Nom
+Uğurlu'nun uğurlu+Noun+NAdj+A3sg+Pnon+Gen
+belgesel belgesel+Adj belgesel+Noun+NAdj+A3sg+Pnon+Nom belge+Noun+A3sg+Pnon+Nom^DB+Adj+Related
+çalışmaları çalışma+Noun+A3pl+P3pl+Nom çalışma+Noun+A3pl+Pnon+Acc çalışma+Noun+A3pl+P3sg+Nom çalışma+Noun+A3sg+P3pl+Nom çalış+Verb+Pos^DB+Noun+Inf2+A3pl+P3pl+Nom çalış+Verb+Pos^DB+Noun+Inf2+A3pl+Pnon+Acc çalış+Verb+Pos^DB+Noun+Inf2+A3pl+P3sg+Nom çalış+Verb+Pos^DB+Noun+Inf2+A3sg+P3pl+Nom
+da da+Conj
+gösterilecek. gösterilecek.+Guess+Noun+A3sg+Pnon+Nom
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Küratörlüğünü küratör+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+P2sg+Acc küratör+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+P3sg+Acc
+Saygun Saygun+Noun+Prop+A3sg+Pnon+Nom
+Dura'nın Dura+Noun+Prop+A3sg+Pnon+Gen Dura+Noun+Prop+A3sg+P2sg+Nom
+üstlendiği üstlen+Verb+Pos^DB+Adj+PastPart+P3sg üstlen+Verb+Pos^DB+Noun+PastPart+A3sg+Pnon+Acc üstlen+Verb+Pos^DB+Noun+PastPart+A3sg+P3sg+Nom üst+Noun+NAdj+A3sg+Pnon+Nom^DB+Verb+Acquire+Pos^DB+Adj+PastPart+P3sg üst+Noun+NAdj+A3sg+Pnon+Nom^DB+Verb+Acquire+Pos^DB+Noun+PastPart+A3sg+Pnon+Acc üst+Noun+NAdj+A3sg+Pnon+Nom^DB+Verb+Acquire+Pos^DB+Noun+PastPart+A3sg+P3sg+Nom
+sergi, sergi,+Guess+Noun+A3sg+Pnon+Nom
+28 28+Adj+Num 28+Noun+Num+A3sg+Pnon+Nom
+Şubat'a şubat+Noun+A3sg+Pnon+Dat
+kadar kadar+Postp+PCGen kadar+Postp+PCNom kadar+Postp+PCDat
+ziyaret ziyaret+Noun+A3sg+Pnon+Nom
+edilebilecek. edilebilecek.+Guess+Noun+A3sg+Pnon+Nom
+</S> </S>+ESTag
